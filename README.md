@@ -1,51 +1,38 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Conversa filosófica entre um chocolate e um cacau
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto tem o objetivo de explorar os recursos das IAs para geraçao de conteúdo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chatgpt com gpt4-o para criação do roteiro
+Invideo IA para geração do vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o prompt abaixo para o chatgpt com gpt4-o criar o roteiro:
+"Crie um diálogo entre esse chocolate e o cacau. A conversa tem que ser divertida mas no final deve conter um lição de vida para o leitor"
+
+Usei o prompt abaixo para o Invideo IA para geração do vídeo:
+"Crie um vídeo onde mostra um narrador falando sobre uma conversa entre um Chocolate e um Cacau.
+Veja o roteiro e as falas:
+
+Chocolate: Ei, meu grande amigo Cacau! Como tens passado? Há um bom tempo que não trocamos palavras!
+Cacau: Olá, Chocolate! Estou bem, obrigado! E contigo? Vejo que tens mantido tua apresentação elegante e requintada!
+Chocolate: Bem, sabes como é... um toque de brilho na embalagem para causar impressão! Mas diga-me, já notaste quão diferentes somos? Tu és completamente natural, repleto de sementes, enquanto eu... bem, passei por diversas transformações até chegar aqui!
+Cacau: Sem dúvida! Iniciaste como um pequeno grão em meu interior, foste fermentado, torrado, moído e misturado com outros ingredientes até te tornares essa iguaria tão apreciada por todos!
+Chocolate: Com certeza! No entanto, por vezes pondero se, após tantas mudanças, não teria perdido um pouco de minha essência...
+Cacau: Oh, Chocolate, cada um tem sua própria jornada! Enfrentaste desafios, evoluíste, adquiriste novas formas e sabores, mas tua essência... essa permanece inalterada! Sempre terás um pedaço de mim em teu cerne!
+Chocolate: Que reflexão profunda! Então, quer dizer que, independentemente das adversidades que enfrentemos, continuamos sendo verdadeiros por dentro?
+Cacau: Exato! A vida nos transforma, nos lapida, nos suaviza ou nos amarga, no entanto, o que realmente importa é lembrar de nossas origens e do que nos torna singulares!
+Chocolate: Cacau, és mais que um fruto... és um filósofo!
+Cacau: Haha, apenas compreendi que toda trajetória possui seu valor. Agora, continuemos a adoçar a existência das pessoas, à nossa maneira!
+Moral da história: As mudanças são inerentes à vida, porém jamais devemos perder de vista nossa essência e origem. Cada transformação nos torna únicos, mas nossa identidade genuína está enraizada em nosso âmago!"
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+As IAs possuem recursos incríveis! Acredito que em termos de criatividade os "Natty" ainda estão na frente, mas ao somar a capacidade dos humanos com a IA as possibilidades passam a ser infinitas.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
